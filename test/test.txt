@@ -1,0 +1,1 @@
+UUID:40e249ca-ea18-4f4f-871e-837e6af366b4	date:+53858-04-30T19:56:42	Pos:[-1.7644537259225124, 100.0, 16.04551095448794]	Dimension:minecraft:the_nether	SpawnX:-8	SpawnY:84	SpawnZ:135	SpawnDimension:minecraft:overworld	enteredNetherPosition:{x:-6.416896073915017d,y:85.24918707874468d,z:138.06877630922918d}	XpLevel:5	XpP:0.882353	
